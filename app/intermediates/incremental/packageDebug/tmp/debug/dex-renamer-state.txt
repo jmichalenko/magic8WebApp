@@ -1,0 +1,4 @@
+#Mon May 30 09:28:30 EDT 2022
+base.0=C\:\\Users\\jmichalenko\\Documents\\udemy-course\\magic8ball\\magic8ball\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
